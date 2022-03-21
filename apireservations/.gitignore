@@ -2,6 +2,7 @@ HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
+reto2dolab*.json
 !**/src/test/**/target/
 
 ### STS ###
